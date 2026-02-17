@@ -22,7 +22,7 @@ function Navbar() {
                         {/* Collapsible wrapper */}
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
                             {/* Navbar brand */}
-                            <a className="navbar-brand mt-2 mt-lg-0" href="#">
+                            <a className="navbar-brand mt-2 mt-lg-0" href="##">
                                 <img
                                     src="/public/img/Frame 22.png"
                                     height={15}
@@ -33,17 +33,17 @@ function Navbar() {
                             {/* Left links */}
                             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#">
+                                    <a className="nav-link" href="##">
                                         Dashboard
                                     </a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#">
+                                    <a className="nav-link" href="##">
                                         Team
                                     </a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#">
+                                    <a className="nav-link" href="##">
                                         Projects
                                     </a>
                                 </li>
@@ -54,7 +54,7 @@ function Navbar() {
                         {/* Right elements */}
                         <div className="d-flex align-items-center">
                             {/* Icon */}
-                            <a className="text-reset me-3" href="#">
+                            <a className="text-reset me-3" href="##">
                                 <i className="fas fa-shopping-cart" />
                             </a>
                             {/* Notifications */}
@@ -62,7 +62,7 @@ function Navbar() {
                                 <a
                                     data-mdb-dropdown-init=""
                                     className="text-reset me-3 dropdown-toggle hidden-arrow"
-                                    href="#"
+                                    href="##"
                                     id="navbarDropdownMenuLink"
                                     role="button"
                                     aria-expanded="false"
@@ -77,17 +77,17 @@ function Navbar() {
                                     aria-labelledby="navbarDropdownMenuLink"
                                 >
                                     <li>
-                                        <a className="dropdown-item" href="#">
+                                        <a className="dropdown-item" href="##">
                                             Some news
                                         </a>
                                     </li>
                                     <li>
-                                        <a className="dropdown-item" href="#">
+                                        <a className="dropdown-item" href="##">
                                             Another news
                                         </a>
                                     </li>
                                     <li>
-                                        <a className="dropdown-item" href="#">
+                                        <a className="dropdown-item" href="##">
                                             Something else here
                                         </a>
                                     </li>
@@ -98,7 +98,7 @@ function Navbar() {
                                 <a
                                     data-mdb-dropdown-init=""
                                     className="dropdown-toggle d-flex align-items-center hidden-arrow"
-                                    href="#"
+                                    href="##"
                                     id="navbarDropdownMenuAvatar"
                                     role="button"
                                     aria-expanded="false"
@@ -116,17 +116,17 @@ function Navbar() {
                                     aria-labelledby="navbarDropdownMenuAvatar"
                                 >
                                     <li>
-                                        <a className="dropdown-item" href="#">
+                                        <a className="dropdown-item" href="##">
                                             My profile
                                         </a>
                                     </li>
                                     <li>
-                                        <a className="dropdown-item" href="#">
+                                        <a className="dropdown-item" href="##">
                                             Settings
                                         </a>
                                     </li>
                                     <li>
-                                        <a className="dropdown-item" href="#">
+                                        <a className="dropdown-item" href="##">
                                             Logout
                                         </a>
                                     </li>
